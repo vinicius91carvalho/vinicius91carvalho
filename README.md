@@ -1,36 +1,28 @@
-<h1 align="center">Hi 👋, I'm Vinicius Carvalho</h1>
+<h1 align="center">Hi <img src="./assets/wave.gif" width="30px" />, I'm Vinicius Carvalho</h1>
 <h3 align="center">A passionate full cycle developer from Brazil</h3>
 <br />
 
 - 🏠 Today I live **in São Paulo, Brazil**
 
-- 🌱 I’m currently learning **Clean Code, Clean Architecture, Design Patterns, Algorithms and Serverless** 
+- 🌱 I’m currently learning **Clean Code, Clean Architecture, Design Patterns and Algorithms**
 
-- 👯 I’m looking to collaborate on **TypeScript projects** 
+- 👯 I’m looking to collaborate on **TypeScript and JavaScript projects** 
 
-- 🤝 I’m looking for help with **Microservices, BFF, Microfrontends** 
+- 🤝 I’m looking for help with **Microservices, BFF, Serverless and Microfrontends** 
 
 - 💬 Ask me about **front-end, back-end, mobile and devops** 
 
-- 📫 How to reach me **https://www.linkedin.com/in/vinicius-carvalho-a04b46116/** 
-
 - 😄 Pronouns **He/Him**
 
-- ⚡ Fun fact **I like to test new techs**
+- ⚡ Fun fact **I like to lean new things and test new techs**
 
-<br />
-<h2 align="left">Connect with me:</h3>
-<br />
-<p align="left">
-    <a href="https://linkedin.com/in/vinicius-carvalho-a04b46116" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vinicius-carvalho-a04b46116" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/6523944" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6523944" height="30" width="40" /></a>
-</p>
 <br />
 <h2 align="left">Skills:</h2>
 <br />
+
 <table width="80%">
     <tr>
-        <td style="border: none">
+        <td>
             <h3 align="left">Programming Languages</h3>
             <br />
             <p align="left">
@@ -41,7 +33,7 @@
                 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a>
             </p>
         </td>
-        <td style="border: none">
+        <td>
             <h3 align="left">Testing</h3>
             <br />
             <p align="left">
@@ -51,7 +43,7 @@
                 <a href="https://stryker-mutator.io" target="_blank"> <img src="https://stryker-mutator.io/images/stryker.svg" alt="stryker mutator" width="40" height="40" /> </a>
             </p>
         </td>
-        <td style="border: none">
+        <td>
             <h3 align="left">Docs</h3>
             <br />
             <p align="left">
@@ -60,7 +52,7 @@
         </td>
     </tr>
     <tr>
-        <td style="border: none">
+        <td>
             <h3 align="left">Frontend Development</h3>
             <br />
             <p align="left">
@@ -75,7 +67,7 @@
                 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
             </p>
         </td>
-        <td style="border: none">
+        <td>
             <h3 align="left">Backend & SSG Development</h3>
             <br />
             <p align="left">
@@ -85,7 +77,7 @@
                 <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40" /> </a>
             </p>
         </td>
-        <td style="border: none">
+        <td>
             <h3 align="left">Mobile App Development</h3>
             <br />
             <p align="left">
@@ -94,7 +86,7 @@
         </td>
     </tr>
     <tr>
-        <td style="border: none">
+        <td>
             <h3 align="left">Database</h3>
             <br />
             <p align="left">
@@ -104,7 +96,7 @@
                 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
             </p>
         </td>
-        <td style="border: none">
+        <td>
             <h3 align="left">DevOps & Cloud</h3>
             <br />
             <p align="left">
@@ -116,7 +108,7 @@
                 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
             </p>
         </td>
-        <td style="border: none">
+        <td>
             <h3 align="left">OS</h3>
             <br />
             <p align="left">
@@ -126,23 +118,22 @@
         </td>
     </tr>
 </table>
-
-<br />
-<h2 align="left">Github stats:</h3>
 <br />
 
-<table>
-        <tr>
-                <td>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius91carvalho&show_icons=true&locale=en&layout=compact" alt="vinicius91carvalho" />
-                </td>
-                <td>
-                        <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinicius91carvalho&show_icons=true&locale=en" alt="vinicius91carvalho" />
-                </td>
-                <td>
-                        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius91carvalho&" alt="vinicius91carvalho" />
-                </td>
-        </tr>
-</table>
-<!-- Powered by https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<h2 align="left">Github stats:</h2>
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius91carvalho&show_icons=true&locale=en&layout=compact" alt="vinicius91carvalho" />
+<br />
+
+<h2 align="left">Connect with me:</h2>
+<br />
+
+<p align="left">
+    <a href="https://linkedin.com/in/vinicius-carvalho-a04b46116" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vinicius-carvalho-a04b46116" height="30" width="40" /></a>
+</p>
+<br />
+
+<!-- Generated with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<!-- Header generated at https://reheader.glitch.me/home -->
 
